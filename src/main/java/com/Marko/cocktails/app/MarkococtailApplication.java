@@ -1,4 +1,4 @@
-package com.Markococktails.Markococtail;
+package com.Marko.cocktails.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
